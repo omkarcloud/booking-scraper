@@ -12,7 +12,7 @@ We take the concerns of the Booking Scraper Project very seriously. For any conc
 
 See how easy it is to extract hundreds of Booking.com hotel listings in under a minute.
 
-[![Booking Scraper Demo Video](https://www.omkar.cloud/images/tools/booking-scraper/thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Booking Scraper Demo Video](https://www.omkar.cloud/images/tools/booking-extractor/thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## ⚡ Why Choose Our Booking Scraper?
 
@@ -31,9 +31,9 @@ Simply **enter your search criteria**, and our scraper handles the rest—extrac
 
 ### Step 1: Create Your Free Account
 
-Sign up for a [Free Account on omkar.cloud](https://www.omkar.cloud/auth/sign-up/?redirect=/tools/booking-scraper/input/&utm_source=github&utm_medium=repo&utm_campaign=booking-repo). It's free, and we don't ask for your credit card.
+Sign up for a [Free Account on omkar.cloud](https://www.omkar.cloud/auth/sign-up/?redirect=/tools/booking-extractor/input/&utm_source=github&utm_medium=repo&utm_campaign=booking-repo). It's free, and we don't ask for your credit card.
 
-[![Press Try Free](https://raw.githubusercontent.com/omkarcloud/assets/master/images/try-free.png)](https://www.omkar.cloud/auth/sign-up/?redirect=/tools/booking-scraper/input/)
+[![Press Try Free](https://raw.githubusercontent.com/omkarcloud/assets/master/images/try-free.png)](https://www.omkar.cloud/auth/sign-up/?redirect=/tools/booking-extractor/input/)
 
 ### Step 2: Enter Your Search Criteria
 
@@ -140,4 +140,4 @@ We'll respond within **24 hours** 🚀
 
 ---
 
-## 🔥 **[Try It Now & Get Booking.com Hotel Data in Minutes!](https://www.omkar.cloud/auth/sign-up/?redirect=/tools/booking-scraper/input/&utm_source=github&utm_medium=repo&utm_campaign=booking-repo)** 🚀
+## 🔥 **[Try It Now & Get Booking.com Hotel Data in Minutes!](https://www.omkar.cloud/auth/sign-up/?redirect=/tools/booking-extractor/input/&utm_source=github&utm_medium=repo&utm_campaign=booking-repo)** 🚀
