@@ -4,7 +4,7 @@ Extract Booking.com data—hotels, prices, ratings, reviews, availability, and m
 
 ## Disclaimer for Booking Scraper Project
 
-*> This Booking Scraper is provided for educational and research purposes only. By using this Booking Scraper, you agree to comply with local and international laws regarding data scraping and privacy. The authors and contributors are not responsible for any misuse of this software. This tool should not be used to violate the rights of others, for unethical purposes, or to use data in an unauthorized or illegal manner.*
+> This Booking Scraper is provided for educational and research purposes only. By using this Booking Scraper, you agree to comply with local and international laws regarding data scraping and privacy. The authors and contributors are not responsible for any misuse of this software. This tool should not be used to violate the rights of others, or for unethical purposes.
 
 We take the concerns of the Booking Scraper Project very seriously. For any concerns, please contact Chetan Jain at [chetan@omkar.cloud](mailto:chetan@omkar.cloud). We will promptly reply to your emails.
 
